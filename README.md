@@ -4,11 +4,11 @@
 
 ## Personal Details:
 
-I am student at [VSCPI](https://www.codingburgas.bg/). I am currently studying C++, Javascript and Python👨🏻‍🏫.
+I am student at [VSCPI](https://www.codingburgas.bg/). I am currently studying C++, JavaScript and Python👨🏻‍🏫.
 
 How to reach me: hhchandar20@codingburgas.bg
 
-<img align="right" alt="ederson" src="http://img.allfootballapp.com/www/M00/29/27/rB8ApFyI1qmAc5RyAC5VEGXtEUM024.gif" />
+<img align="right" alt="ederson" src="https://c.tenor.com/9qZhM0uswAYAAAAd/bully-maguire-dance.gif" />
 
 <br>
 <hr>
