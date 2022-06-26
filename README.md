@@ -39,9 +39,9 @@ How to reach me: hhchandar20@codingburgas.bg
 <details>	
   <summary><b>⛄ Github Stats</b></summary>
 
-![Grade](https://github-readme-stats.vercel.app/api?username=hhchandar20&show_icons=true&theme=merko&count_private=true)
+![Grade](https://github-readme-stats.vercel.app/api?username=HHChandar20&show_icons=true&theme=merko&count_private=true)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhchandar20&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HHChandar20&theme=merko)
   <br>
 <hr>
 </details>
