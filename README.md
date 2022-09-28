@@ -22,15 +22,16 @@ How to reach me: hhchandar20@codingburgas.bg
 
 ## Languages and technologies I use:
 
-<code><img height="27" src="https://pbs.twimg.com/media/D1oRoQ0WsAA036b.png" alt="cpp"></code>
-<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SFML_Logo.svg/1200px-SFML_Logo.svg.png" alt="sfml"></code>
-<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png" alt="raylib"></code>
-<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="git"></code>
-<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Devicon-html5-plain-wordmark.svg" alt="html"></code>
-<code><img height="27" src="https://user-images.githubusercontent.com/63719283/116717419-8809a000-a9e1-11eb-8e3c-148c4456be99.png" alt="css"></code>
-<code><img height="27" src="http://www.wsmachinery.com.au/wp-content/uploads/2016/03/js-logo-300x300.png" alt="js"></code>
-<code><img height="27" src="https://i.pinimg.com/originals/9c/ea/ba/9ceaba69b7a9f89158ff953107978f3e.png" alt="photoshop"></code>
-<code><img height="27" src="https://dev.bg/wp-content/uploads/2021/03/1200px-python-logo-notext.svg_.png" alt="python"></code>
+<code><img height="27" src="https://pbs.twimg.com/media/D1oRoQ0WsAA036b.png" alt="C++"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SFML_Logo.svg/1200px-SFML_Logo.svg.png" alt="SFML"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png" alt="Raylib"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Git"></code>
+<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Devicon-html5-plain-wordmark.svg" alt="HTML"></code>
+<code><img height="27" src="https://user-images.githubusercontent.com/63719283/116717419-8809a000-a9e1-11eb-8e3c-148c4456be99.png" alt="CSS"></code>
+<code><img height="27" src="http://www.wsmachinery.com.au/wp-content/uploads/2016/03/js-logo-300x300.png" alt="JavaScript"></code>
+<code><img height="27" src="https://i.pinimg.com/originals/9c/ea/ba/9ceaba69b7a9f89158ff953107978f3e.png" alt="Photoshop"></code>
+<code><img height="27" src="https://dev.bg/wp-content/uploads/2021/03/1200px-python-logo-notext.svg_.png" alt="Python"></code>
+<code><img height="27" src="https://o.remove.bg/uploads/baac6c6c-3f70-44a7-88c9-1394a5043b38/image-removebg-preview__2_-modified.png" alt="IT Essentials"></code>
 <br>
 <hr>
 
@@ -55,6 +56,13 @@ How to reach me: hhchandar20@codingburgas.bg
 
 </details>  
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <hr>
 
