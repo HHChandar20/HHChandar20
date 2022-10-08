@@ -10,13 +10,13 @@ How to reach me: hhchandar20@codingburgas.bg
 
 <img align="right" alt="Bully Maguire" src="https://c.tenor.com/9qZhM0uswAYAAAAd/bully-maguire-dance.gif" width= "400" height= "400"/>
 
-<br>
 <hr>
 
-### How to connect with me:
+## How to connect with me:
 
-<a href = "https://www.instagram.com/h_chandar/"><img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>
-<a href = "https://www.facebook.com/hakan.chandar.12/"><img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"></a>
+<a href = "https://www.instagram.com/h_chandar/"><img align="left" alt="instagram" width="22px" src="https://seeklogo.com/images/I/instagram-logo-1494D6FE63-seeklogo.com.png"></a>
+<a href = "https://www.facebook.com/hakan.chandar.12/"><img align="left" alt="facebook" width="22px" src="https://seeklogo.com/images/F/facebook-icon-logo-C61047A9E7-seeklogo.com.png"></a>
+<a href = "https://www.codingame.com/certification/9OqUR4sP8xy8dsrRsR1i_w"><img align="left" alt="instagram" width="22px" src="https://o.remove.bg/downloads/1ef74603-a70a-4df7-88a0-ebba8aa7c203/codingame-for-work-removebg-preview.png"></a>
 <br>
 <hr>
 
@@ -53,6 +53,7 @@ How to reach me: hhchandar20@codingburgas.bg
 <a href ="https://www.credly.com/earner/earned/badge/66534970-07ab-45db-8467-b8138122654e"><img align="left" alt="Word Office 2016" width="200px" src="https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" ></a>
 <a href ="https://www.credly.com/badges/381f603e-6864-4e40-8380-3b372a1fe4fe"><img align="left" alt="Javascript" width="200px" src="https://images.credly.com/size/340x340/images/16840ea3-5c9a-4599-853e-7e15bac7748e/MTA-Introduction_to_Programming_Using_JavaScript-600x600.png" ></a>
 <a href ="https://www.credly.com/earner/earned/badge/6e167c98-2612-4eeb-b8f7-0ef80349b12a"><img align="left" alt="Javascript" width="200px" src="https://images.credly.com/size/340x340/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png" ></a>
+<a href ="https://www.codingame.com/certification/9OqUR4sP8xy8dsrRsR1i_w" alt="yes"><img align="left" alt="C++ Certificate" width="200px" src="https://o.remove.bg/downloads/dc9320d4-d506-40a1-b4f1-29c5d90d0e0b/c%2B%2B-badge-removebg-preview.png" ></a>
 
 </details>  
 
