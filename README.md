@@ -41,8 +41,8 @@ How to reach me: hhchandar20@codingburgas.bg
 
 ![Grade](https://github-readme-stats.vercel.app/api?username=HHChandar20&show_icons=true&theme=merko&count_private=true)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HHChandar20&theme=merko)
-  <br>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=HHChandar20&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=merko&langs_count=10"  width="500" alt="languages graph" />
+
 <hr>
 </details>
 
