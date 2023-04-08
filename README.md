@@ -4,7 +4,7 @@
 
 ## Personal Details:
 
-I am student at [VSCPI](https://www.codingburgas.bg/). I am currently studying C++, JavaScript and Python👨🏻‍🏫.
+I am student at [VSCPI](https://www.codingburgas.bg/). I am currently studying C++, SQL and Python👨🏻‍🏫.
 
 How to reach me: hhchandar20@codingburgas.bg
 
