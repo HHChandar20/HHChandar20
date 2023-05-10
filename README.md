@@ -23,7 +23,7 @@ How to reach me: hhchandar20@codingburgas.bg
 ## Languages and technologies I use:
 
 <code><img height="40" src="https://pbs.twimg.com/media/D1oRoQ0WsAA036b.png" alt="C++"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SFML_Logo.svg/1200px-SFML_Logo.svg.png" alt="SFML"></code>
+<code><img height="40" src="https://symbols.getvecta.com/stencil_27/79_sql-database-generic.494ff6320e.png" alt="SQL"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png" alt="Raylib"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Git"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Devicon-html5-plain-wordmark.svg" alt="HTML"></code>
