@@ -50,8 +50,6 @@ How to reach me: HHChandar20@codingburgas.bg
 ![Grade](https://github-readme-stats.vercel.app/api?username=HHChandar20&show_icons=true&count_private=true)
 
 ![Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=HHChandar20&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=6")
-
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=hhchandar20&)
 <hr>
 </details>
 
