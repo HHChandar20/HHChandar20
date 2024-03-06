@@ -16,7 +16,7 @@ How to reach me: HHChandar20@codingburgas.bg
 
 <a href = "https://www.instagram.com/h_chandar/"><img align="left" alt="instagram" width="30px" src="https://seeklogo.com/images/I/instagram-logo-1494D6FE63-seeklogo.com.png"></a>
 <a href = "https://www.facebook.com/hakan.chandar.12/"><img align="left" alt="facebook" width="30px" src="https://seeklogo.com/images/F/facebook-icon-logo-C61047A9E7-seeklogo.com.png"></a>
-<a href = "https://www.codingame.com/profile/1300881323932ab1ce9be429550b83207391854"><img align="left" alt="codingame" width="30px" src="https://cdn.discordapp.com/attachments/935809460809633832/1099778063090335855/images-removebg-preview.png"></a>
+<a href = "https://www.codingame.com/profile/1300881323932ab1ce9be429550b83207391854"><img align="left" alt="codingame" width="30px" src="https://cdn.worldvectorlogo.com/logos/codingame-1.svg"></a>
 <br>
 <hr>
 
@@ -57,18 +57,18 @@ How to reach me: HHChandar20@codingburgas.bg
 <details>
   <summary><b>📚 Badges</b></summary>
   
-[![Photoshop](https://media.discordapp.net/attachments/935809460809633832/1197332404378017842/photoshop-badge-removebg-preview.png?ex=65bae1b2&is=65a86cb2&hm=b229ff6404de7b53c67d8ab6c9b264987d2b3b2a39e1a2a5dccc691800e988f2&=&format=webp&quality=lossless)](https://www.credly.com/badges/9a6c2099-d5ed-4681-8e8e-751e24e7b1f2/public_url)
-[![Adobe Illustrator](https://media.discordapp.net/attachments/935809460809633832/1197332404147339284/illustrator-badge-removebg-preview.png?ex=65bae1b2&is=65a86cb2&hm=7149e3f00fe02c33a085ccbf5408deac2163b31bc90073b5b5f69aff54c42dcd&=&format=webp&quality=lossless)](https://www.credly.com/badges/58abd812-bd05-4205-8fa6-b8cc3450df48/public_url)
-[![Visual Design](https://media.discordapp.net/attachments/935809460809633832/1197332404596125766/visual-design-badge-removebg-preview.png?ex=65bae1b2&is=65a86cb2&hm=6d9688e18679aec7b1bee3197c0611e9c1c0bd288e436013eda0a45361154804&=&format=webp&quality=lossless)](https://www.credly.com/badges/2e874695-9d59-42ee-a8a6-a92d53cec738/public_url)
-[![App Development with Swift Associate](https://media.discordapp.net/attachments/935809460809633832/1197329531032322159/swift-badge.png?ex=65badf05&is=65a86a05&hm=71df83d77876e4d76a3fb8a270d684726591622df927738a60069da462f3288e&=&format=webp&quality=lossless)](https://www.credly.com/badges/ddb459d8-6ba9-4cde-b092-94d3c9c53a0c/public_url)
+[![Photoshop](https://camo.githubusercontent.com/53e8cfb32526a218dd9a2e17a4d49eeb621920234c97394efbab25a4deaee632/68747470733a2f2f696d616765732e637265646c792e636f6d2f73697a652f313130783131302f696d616765732f36393037383464372d623937312d343639332d623665612d3764633939306636353534342f41646f62655f4365727469666965645f50726f66657373696f6e616c5f41646f62655f50686f746f73686f705f6469676974616c5f62616467652e706e67)](https://www.credly.com/badges/9a6c2099-d5ed-4681-8e8e-751e24e7b1f2/public_url)
+[![Adobe Illustrator](https://camo.githubusercontent.com/d2f8190bc6cfc58ad8c4c9bd39d4cbb855ae630fd036e0acbd2f54c5a7a0eee8/68747470733a2f2f696d616765732e637265646c792e636f6d2f73697a652f313130783131302f696d616765732f35313535656436392d616437332d343565332d383331622d3630353037646465623161642f41646f62655f4365727469666965645f50726f66657373696f6e616c5f41646f62655f496c6c7573747261746f725f6469676974616c5f62616467652e706e67)](https://www.credly.com/badges/58abd812-bd05-4205-8fa6-b8cc3450df48/public_url)
+[![Visual Design](https://camo.githubusercontent.com/e5ac6a2acea2b466aa0365c10bb33ef553180ab821f83f97e2136b223f54cc4b/68747470733a2f2f696d616765732e637265646c792e636f6d2f73697a652f313130783131302f696d616765732f31396439366535352d663135632d343464392d393536382d3433663833353035626435622f41646f62655f4365727469666965645f50726f66657373696f6e616c5f56697375616c5f44657369676e5f6469676974616c5f62616467652e706e67)](https://www.credly.com/badges/2e874695-9d59-42ee-a8a6-a92d53cec738/public_url)
+[![App Development with Swift Associate](https://camo.githubusercontent.com/a0b849e1dbe0472ace56a867681541ec8422e97842603c5c75e8e1eb8ea0fbfe/68747470733a2f2f696d616765732e637265646c792e636f6d2f73697a652f313130783131302f696d616765732f64393539386331612d326635392d343962392d623766632d6137363462663233623464352f696d6167652e706e67)](https://www.credly.com/badges/ddb459d8-6ba9-4cde-b092-94d3c9c53a0c/public_url)
 [![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/768ca921-700d-4675-a6b7-172f34fd662b/public_url)
 [![English for IT 1](https://images.credly.com/size/110x110/images/77b1ea15-6287-4d97-8ecd-c5afa2d137ea/image.png)](https://www.credly.com/badges/b05991ae-0fd3-44e2-8bb0-00467df5c5fe/public_url)
-[![IT Essentials](https://images.credly.com/size/110x110/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png)](https://www.credly.com/badges/422acd6d-209a-43bf-8c7f-69232eb61a08)
+[![IT Essentials](https://camo.githubusercontent.com/48d623280c210a7ae572be8930c1431140c904ae7d638ecec034bb13271894fa/68747470733a2f2f696d616765732e637265646c792e636f6d2f73697a652f313130783131302f696d616765732f30346538303334632d383166352d346637662d616232332d6538623432386333316365392f4954452e706e67)](https://www.credly.com/badges/422acd6d-209a-43bf-8c7f-69232eb61a08)
 [![Javascript](https://images.credly.com/size/110x110/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png)](https://www.credly.com/badges/381f603e-6864-4e40-8380-3b372a1fe4fe/public_url)
-[![Networking Academy Learn-A-Thon 2023](https://media.discordapp.net/attachments/935809460809633832/1197332403904065597/learn-a-thon-badge-removebg-preview.png?ex=65bae1b2&is=65a86cb2&hm=c808586afed2eb35d051d20ebdde3127275fdefd9b55beeed238a702e84f7514&=&format=webp&quality=lossless)](https://www.credly.com/badges/dec9ba26-58a2-4b4b-b808-f6002c2dc495/public_url)
+[![Networking Academy Learn-A-Thon 2023](https://camo.githubusercontent.com/a36182c6cd11d9971056745fdbaa077b6034e9a3c30498f66f2e9f010c3bcc1d/68747470733a2f2f696d616765732e637265646c792e636f6d2f73697a652f313130783131302f696d616765732f62313339353234382d343833632d343863642d623430642d3766653933383337633337642f696d6167652e706e67)](https://www.credly.com/badges/dec9ba26-58a2-4b4b-b808-f6002c2dc495/public_url)
 [![Javascript](https://images.credly.com/size/110x110/images/16840ea3-5c9a-4599-853e-7e15bac7748e/MTA-Introduction_to_Programming_Using_JavaScript-600x600.png)](https://www.credly.com/badges/381f603e-6864-4e40-8380-3b372a1fe4fe)
-[![Codingame Python3](https://media.discordapp.net/attachments/935809460809633832/1197329072209006644/python-badge.png?ex=65bade98&is=65a86998&hm=ef43c87826cb6d87649316336d0e254ca1e57efd09cb5e7291945cd67d4a8ae5&=&format=webp&quality=lossless)](https://www.codingame.com/certification/7LHzwzfT4KAX3P-VZtkCcw)
-[![Codingame C++](https://media.discordapp.net/attachments/935809460809633832/1197329071626006660/c-badge.png?ex=65bade97&is=65a86997&hm=b1280a311e3917d99d7620e1343758c1e1ef060c3d8c47f531c4fd31a621c8ff&=&format=webp&quality=lossless)](https://www.codingame.com/certification/9OqUR4sP8xy8dsrRsR1i_w)
+[![Codingame Python3](https://i.ibb.co/K6rMJ7K/python-badge.png)](https://www.codingame.com/certification/7LHzwzfT4KAX3P-VZtkCcw)
+[![Codingame C++](https://i.ibb.co/NZ5DF0q/c-badge.png)](https://www.codingame.com/certification/9OqUR4sP8xy8dsrRsR1i_w)
 [![Word](https://images.credly.com/size/110x110/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png)]()
 [![Excel](https://images.credly.com/size/110x110/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png)](https://www.credly.com/badges/6e167c98-2612-4eeb-b8f7-0ef80349b12a)
 
@@ -79,7 +79,6 @@ How to reach me: HHChandar20@codingburgas.bg
 
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21h5aebynlzwwg5tkyn2f4o5y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=21h5aebynlzwwg5tkyn2f4o5y&redirect=true)
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zisu4clast5jtq5r5qmcfklaui&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31zisu4clast5jtq5r5qmcfklaui&redirect=true)
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31sw52noaijjcfjy2ryfvlsetbwq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=31sw52noaijjcfjy2ryfvlsetbwq&redirect=true)
 </details>
 
 
