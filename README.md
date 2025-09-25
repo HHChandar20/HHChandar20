@@ -15,7 +15,7 @@ How to reach me: hakanchndr@gmail.com
 </p>
 <hr>
 
-## Languages and tools:
+### Languages and tools:
 
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" alt="C#"></code>
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET"></code>
