@@ -8,6 +8,8 @@ I am an ICT Student at HZ University, passionate about full-stack development. ð
 
 How to reach me: hakanchndr@gmail.com
 
+My portfolio: https://hakanchandar.netlify.app/
+
 <img align="right" alt="" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWplcDhvY2hoZ3UxYXJmZ2dxam10YWJoZ3JscGR0dW5nNzFveXRvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" height="250" />
 
 <p align="left">
