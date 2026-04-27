@@ -19,28 +19,30 @@ My portfolio: https://hakanchandar.netlify.app/
 
 ### Languages and tools:
 
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/960px-Logo_C_sharp.svg.png" alt="C#"></code>
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET"></code>
-  <code><img height="40" src="https://symbols.getvecta.com/stencil_27/79_sql-database-generic.494ff6320e.png" alt="SQL"></code>
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1920px-ISO_C%2B%2B_Logo.svg.png" alt="C++"></code>
-  <code><img height="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" alt="HTML"></code>
-  <code><img height="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_640.png" alt="CSS"></code>
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript"></code>
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/960px-Typescript_logo_2020.svg.png" alt="TypeScript"></code>
-  <code><img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React JS"></code>
-  <code><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-svg-download-png-3030179.png" alt="Node.js"></code>
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/960px-Bootstrap_logo.svg.png" alt="Bootstrap"></code>
-  <code><img height="40" src="https://files.raycast.com/80x1pxra7cyabkoyxqvlono2sg9p" alt="Tailwind"></code>
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Azure"></code>
-  <code><img height="40" src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" alt="Git"></code>
-  <code><img height="40" src="https://cdn.freebiesupply.com/logos/thumbs/2x/linux-tux-1-logo.png" alt="Linux"></code>
-  <code><img height="40" src="https://img.icons8.com/color/512/flutter.png" alt="Flutter"></code>
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart"></code>
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python"></code>
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png" alt="raylib"></code>
-  <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop"></code>
-  <code><img height="40" src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=804&h=804&q=75&fit=max&auto=format" alt="Figma"></code>
-  <code><img height="40" src="https://cdn.prod.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2384a9aa2efc2ef1c9df9c_nunit.png" alt="NUnit"></code>
+  <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/960px-Logo_C_sharp.svg.png" alt="C#"></code>
+  <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET"></code>
+  <code><img width="40" src="https://symbols.getvecta.com/stencil_27/79_sql-database-generic.494ff6320e.png" alt="SQL"></code>
+  <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1920px-ISO_C%2B%2B_Logo.svg.png" alt="C++"></code>
+  <code><img width="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" alt="HTML"></code>
+  <code><img width="40" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_640.png" alt="CSS"></code>
+  <code><img width="40" src="https://cdn.freebiesupply.com/logos/large/2x/sass-1-logo-png-transparent.png" alt="Sass"></code>
+  <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript"></code>
+  <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/960px-Typescript_logo_2020.svg.png" alt="TypeScript"></code>
+  <code><img width="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React JS"></code>
+  <code><img width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-svg-download-png-3030179.png" alt="Node.js"></code>
+  <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/960px-Bootstrap_logo.svg.png" alt="Bootstrap"></code>
+  <code><img width="40" src="https://files.raycast.com/80x1pxra7cyabkoyxqvlono2sg9p" alt="Tailwind"></code>
+  <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Azure"></code>
+  <code><img width="40" src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" alt="Git"></code>
+  <code><img width="40" src="https://cdn.freebiesupply.com/logos/thumbs/2x/linux-tux-1-logo.png" alt="Linux"></code>
+  <code><img width="40" src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" alt="PHP"></code>
+  <code><img width="40" src="https://img.icons8.com/color/512/flutter.png" alt="Flutter"></code>
+  <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart"></code>
+  <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python"></code>
+  <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png" alt="raylib"></code>
+  <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop"></code>
+  <code><img width="40" src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=804&h=804&q=75&fit=max&auto=format" alt="Figma"></code>
+  <code><img width="40" src="https://cdn.prod.website-files.com/5f10ed4c0ebf7221fb5661a5/5f2384a9aa2efc2ef1c9df9c_nunit.png" alt="NUnit"></code>
 
 <hr>
 
