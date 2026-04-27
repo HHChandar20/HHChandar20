@@ -55,9 +55,9 @@ My portfolio: https://hakanchandar.netlify.app/
   
   <div align="left">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/madhurimarawat/madhurimarawat/output/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/madhurimarawat/madhurimarawat/output/github-contribution-grid-snake.svg" />
-      <img alt="github-snake" src="https://raw.githubusercontent.com/madhurimarawat/madhurimarawat/output/github-contribution-grid-snake.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HHChandar20/HHChandar20/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HHChandar20/HHChandar20/output/github-contribution-grid-snake.svg" />
+      <img alt="github-snake" src="https://raw.githubusercontent.com/HHChandar20/HHChandar20/output/github-contribution-grid-snake.svg" />
     </picture>
   </div>
 
