@@ -114,5 +114,8 @@ My portfolio: https://hakanchandar.netlify.app/
 <div align="center">
 
 ### 🚨No risk no story🚨
-
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=80&section=footer" width="100%" />
+</p>
