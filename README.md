@@ -51,8 +51,6 @@ My portfolio: https://hakanchandar.netlify.app/
 <details>	
   <summary><b>⛄ Github Stats</b></summary>
 
-  ![Grade](https://github-readme-stats.vercel.app/api?username=HHChandar20&show_icons=true&count_private=true)
-  
   ![Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=HHChandar20&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=6")
   
   <div align="left">
