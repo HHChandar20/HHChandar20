@@ -4,7 +4,7 @@
 
 ### Personal Details:
 
-I am an ICT Student at HZ University, passionate about full-stack development. 👨🏻‍🏫
+I am an ICT student, passionate about full-stack development. 👨🏻‍🏫
 
 How to reach me: hakanchndr@gmail.com
 
@@ -32,9 +32,10 @@ My portfolio: https://hakanchandar.netlify.app/
   <code><img width="40" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-svg-download-png-3030179.png" alt="Node.js"></code>
   <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/960px-Bootstrap_logo.svg.png" alt="Bootstrap"></code>
   <code><img width="40" src="https://files.raycast.com/80x1pxra7cyabkoyxqvlono2sg9p" alt="Tailwind"></code>
-  <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="Azure"></code>
+  <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/960px-Microsoft_Azure.svg.png" alt="Azure"></code>
   <code><img width="40" src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" alt="Git"></code>
   <code><img width="40" src="https://cdn.freebiesupply.com/logos/thumbs/2x/linux-tux-1-logo.png" alt="Linux"></code>
+  <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx"></code>
   <code><img width="40" src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" alt="PHP"></code>
   <code><img width="40" src="https://img.icons8.com/color/512/flutter.png" alt="Flutter"></code>
   <code><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart"></code>
@@ -68,42 +69,42 @@ My portfolio: https://hakanchandar.netlify.app/
 <details>
   <summary><b>📚 Badges</b></summary>
   
-[![Photoshop](https://certiport.pearsonvue.com/getattachment/Certifications/Adobe/ACP/Badging/Photoshop/Adobe_Certified_Professional_Adobe_Photoshop_digital_badge.png?lang=en-US&width=110&height=110&ext=.png)](https://www.credly.com/badges/9a6c2099-d5ed-4681-8e8e-751e24e7b1f2/public_url)
-[![Adobe Illustrator](https://certiport.pearsonvue.com/getattachment/Certifications/Adobe/ACP/Badging/Illustrator/Adobe_Certified_Professional_Adobe_Illustrator_digital_badge.png?lang=en-US&width=110&height=110&ext=.png)](https://www.credly.com/badges/58abd812-bd05-4205-8fa6-b8cc3450df48/public_url)
-[![Visual Design](https://certiport.pearsonvue.com/getattachment/97c5f949-0d3d-49e5-aae7-f35b3278f521/Adobe_Certified_Professional_Visual_Design_digital_badge.png?lang=en-US&width=110&height=110&ext=.png)](https://www.credly.com/badges/2e874695-9d59-42ee-a8a6-a92d53cec738/public_url)
-[![App Development with Swift Associate](https://certiport.pearsonvue.com/getattachment/b26ea31f-bb61-4ab8-82f7-0c44f9fc3b55/Swift_CU_600x600.png?lang=en-US&width=110&height=110&ext=.png)](https://www.credly.com/badges/ddb459d8-6ba9-4cde-b092-94d3c9c53a0c/public_url)
-[![IT Specialist - Software Development](https://images.credly.com/size/110x110/images/267a8b92-df48-41f1-9473-a0dae752310e/ITS-Badges_Software-Development_1200px.png)](https://www.credly.com/badges/72400ab3-93bf-4d8b-b3aa-ba07a0b109a9/public_url)
-[![IT Specialist - Javascript](https://images.credly.com/size/110x110/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png)](https://www.credly.com/badges/381f603e-6864-4e40-8380-3b372a1fe4fe/public_url)
-[![IT Specialist - Databases](https://images.credly.com/size/110x110/images/49a492cd-5f72-4c9d-aafa-06649e4853fb/MicrosoftTeams-image__5_.png)](https://www.credly.com/badges/0ae8bb93-d88e-4c47-b600-59f8263d5468/public_url)
-[![Network Defense](https://images.credly.com/size/110x110/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png)](https://www.credly.com/badges/149f6287-ce5f-40e7-8344-f40607651ec9/public_url)
-[![JavaScript Essentials 1](https://images.credly.com/size/110x110/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png)](https://www.credly.com/badges/3a383150-c6f8-4958-b46e-8777645c5c73/public_url)
-[![Python Essentials 1](https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png)](https://www.credly.com/badges/1bb10468-d124-4c6b-bcc2-345eebdc5056/public_url)
-[![Endpoint Security](https://images.credly.com/size/110x110/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png)](https://www.credly.com/badges/358e4d15-38dc-416e-beb5-7bf5e950f83b/public_url)
-[![Cyber Threat Management](https://images.credly.com/size/110x110/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png)](https://www.credly.com/badges/6cf02463-c97d-488f-83c5-2b5d77bfaa16/public_url)
-[![Network Technician Career Path](https://images.credly.com/size/110x110/images/978f88dc-c247-4093-9d39-6efac3651297/image.png)](https://www.credly.com/badges/89b06d96-9618-4340-93c5-3fe996e7c5d9/public_url)
-[![Network Addressing and Basic Troubleshooting](https://images.credly.com/size/110x110/images/49c099bd-8542-4f48-8c03-f21799dcaf51/image.png)](https://www.credly.com/badges/0c5f976c-4ac0-4257-94b6-cd084612ba54/public_url)
-[![Networking Devices and Initial Configuration](https://images.credly.com/size/110x110/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png)](https://www.credly.com/badges/0dedd0c8-6d5f-4c42-8791-a1f7b7457674/public_url)
-[![Networking Basics](https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png)](https://www.credly.com/badges/d28a24a6-3e91-4d72-bb14-22d5184af386/public_url)
-[![IT Essentials](https://images.credly.com/size/110x110/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png)](https://www.credly.com/badges/422acd6d-209a-43bf-8c7f-69232eb61a08)
-[![Introduction to Data Science](https://images.credly.com/size/110x110/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png)](https://www.credly.com/badges/07213465-ffd7-4e89-891b-a8c94985f311/public_url)
-[![Introduction to IoT](https://images.credly.com/size/110x110/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png)](https://www.credly.com/badges/50e7dd4b-8839-425f-80c5-b4a57847fc9e/public_url)
-[![Cybersecurity Essentials](https://images.credly.com/size/110x110/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png)](https://www.credly.com/badges/956eb1e8-f648-4a79-923f-7181bd4deb20/public_url)
-[![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/768ca921-700d-4675-a6b7-172f34fd662b/public_url)
-[![English for IT 2](https://images.credly.com/size/110x110/images/ca317486-3494-488b-b2a7-b49270d98f21/image.png)](https://www.credly.com/badges/b8f82279-4f6e-48d8-868e-e86d59e745e0/public_url)
-[![English for IT 1](https://images.credly.com/size/110x110/images/77b1ea15-6287-4d97-8ecd-c5afa2d137ea/image.png)](https://www.credly.com/badges/b05991ae-0fd3-44e2-8bb0-00467df5c5fe/public_url)
-[![Networking Academy Learn-A-Thon 2023](https://images.credly.com/size/110x110/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png)](https://www.credly.com/badges/dec9ba26-58a2-4b4b-b808-f6002c2dc495/public_url)
-[![Codingame Python3](https://i.ibb.co/K6rMJ7K/python-badge.png)](https://www.codingame.com/certification/7LHzwzfT4KAX3P-VZtkCcw)
-[![Codingame C++](https://i.ibb.co/NZ5DF0q/c-badge.png)](https://www.codingame.com/certification/9OqUR4sP8xy8dsrRsR1i_w)
-[![Introduction to Javascript](https://images.credly.com/size/110x110/images/16840ea3-5c9a-4599-853e-7e15bac7748e/MTA-Introduction_to_Programming_Using_JavaScript-600x600.png)](https://www.credly.com/badges/381f603e-6864-4e40-8380-3b372a1fe4fe)
-[![Word](https://images.credly.com/size/110x110/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png)]()
-[![Excel](https://images.credly.com/size/110x110/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png)](https://www.credly.com/badges/6e167c98-2612-4eeb-b8f7-0ef80349b12a)
+<a href="https://www.credly.com/badges/9a6c2099-d5ed-4681-8e8e-751e24e7b1f2/public_url"><img src="https://certiport.pearsonvue.com/getattachment/Certifications/Adobe/ACP/Badging/Photoshop/Adobe_Certified_Professional_Adobe_Photoshop_digital_badge.png?lang=en-US&width=110&height=110&ext=.png" alt="Photoshop" title="Photoshop" width="70"></a>
+<a href="https://www.credly.com/badges/58abd812-bd05-4205-8fa6-b8cc3450df48/public_url"><img src="https://certiport.pearsonvue.com/getattachment/Certifications/Adobe/ACP/Badging/Illustrator/Adobe_Certified_Professional_Adobe_Illustrator_digital_badge.png?lang=en-US&width=110&height=110&ext=.png" alt="Adobe Illustrator" title="Adobe Illustrator" width="70"></a>
+<a href="https://www.credly.com/badges/2e874695-9d59-42ee-a8a6-a92d53cec738/public_url"><img src="https://certiport.pearsonvue.com/getattachment/97c5f949-0d3d-49e5-aae7-f35b3278f521/Adobe_Certified_Professional_Visual_Design_digital_badge.png?lang=en-US&width=110&height=110&ext=.png" alt="Visual Design" title="Visual Design" width="70"></a>
+<a href="https://www.credly.com/badges/ddb459d8-6ba9-4cde-b092-94d3c9c53a0c/public_url"><img src="https://certiport.pearsonvue.com/getattachment/b26ea31f-bb61-4ab8-82f7-0c44f9fc3b55/Swift_CU_600x600.png?lang=en-US&width=110&height=110&ext=.png" alt="App Development with Swift Associate" title="App Development with Swift Associate" width="70"></a>
+<a href="https://www.credly.com/badges/72400ab3-93bf-4d8b-b3aa-ba07a0b109a9/public_url"><img src="https://images.credly.com/size/110x110/images/267a8b92-df48-41f1-9473-a0dae752310e/ITS-Badges_Software-Development_1200px.png" alt="IT Specialist - Software Development" title="IT Specialist - Software Development" width="70"></a>
+<a href="https://www.credly.com/badges/381f603e-6864-4e40-8380-3b372a1fe4fe/public_url"><img src="https://images.credly.com/size/110x110/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png" alt="IT Specialist - Javascript" title="IT Specialist - Javascript" width="70"></a>
+<a href="https://www.credly.com/badges/0ae8bb93-d88e-4c47-b600-59f8263d5468/public_url"><img src="https://images.credly.com/size/110x110/images/49a492cd-5f72-4c9d-aafa-06649e4853fb/MicrosoftTeams-image__5_.png" alt="IT Specialist - Databases" title="IT Specialist - Databases" width="70"></a>
+<a href="https://www.credly.com/badges/149f6287-ce5f-40e7-8344-f40607651ec9/public_url"><img src="https://images.credly.com/size/110x110/images/51526f76-711b-4caf-b04d-27f89512b112/NetworkDefense_v1_091721.png" alt="Network Defense" title="Network Defense" width="70"></a>
+<a href="https://www.credly.com/badges/3a383150-c6f8-4958-b46e-8777645c5c73/public_url"><img src="https://images.credly.com/size/110x110/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" alt="JavaScript Essentials 1" title="JavaScript Essentials 1" width="70"></a>
+<a href="https://www.credly.com/badges/1bb10468-d124-4c6b-bcc2-345eebdc5056/public_url"><img src="https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials 1" title="Python Essentials 1" width="70"></a>
+<a href="https://www.credly.com/badges/358e4d15-38dc-416e-beb5-7bf5e950f83b/public_url"><img src="https://images.credly.com/size/110x110/images/0ca5f542-fb5e-4a22-9b7a-c1a1ce4c3db7/EndpointSecurity.png" alt="Endpoint Security" title="Endpoint Security" width="70"></a>
+<a href="https://www.credly.com/badges/6cf02463-c97d-488f-83c5-2b5d77bfaa16/public_url"><img src="https://images.credly.com/size/110x110/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" alt="Cyber Threat Management" title="Cyber Threat Management" width="70"></a>
+<a href="https://www.credly.com/badges/89b06d96-9618-4340-93c5-3fe996e7c5d9/public_url"><img src="https://images.credly.com/size/110x110/images/978f88dc-c247-4093-9d39-6efac3651297/image.png" alt="Network Technician Career Path" title="Network Technician Career Path" width="70"></a>
+<a href="https://www.credly.com/badges/0c5f976c-4ac0-4257-94b6-cd084612ba54/public_url"><img src="https://images.credly.com/size/110x110/images/49c099bd-8542-4f48-8c03-f21799dcaf51/image.png" alt="Network Addressing and Basic Troubleshooting" title="Network Addressing and Basic Troubleshooting" width="70"></a>
+<a href="https://www.credly.com/badges/0dedd0c8-6d5f-4c42-8791-a1f7b7457674/public_url"><img src="https://images.credly.com/size/110x110/images/88316fe8-5651-4e61-a6be-5be1558f049e/image.png" alt="Networking Devices and Initial Configuration" title="Networking Devices and Initial Configuration" width="70"></a>
+<a href="https://www.credly.com/badges/d28a24a6-3e91-4d72-bb14-22d5184af386/public_url"><img src="https://images.credly.com/size/110x110/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Networking Basics" title="Networking Basics" width="70"></a>
+<a href="https://www.credly.com/badges/422acd6d-209a-43bf-8c7f-69232eb61a08"><img src="https://images.credly.com/size/110x110/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" alt="IT Essentials" title="IT Essentials" width="70"></a>
+<a href="https://www.credly.com/badges/07213465-ffd7-4e89-891b-a8c94985f311/public_url"><img src="https://images.credly.com/size/110x110/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" alt="Introduction to Data Science" title="Introduction to Data Science" width="70"></a>
+<a href="https://www.credly.com/badges/50e7dd4b-8839-425f-80c5-b4a57847fc9e/public_url"><img src="https://images.credly.com/size/110x110/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" alt="Introduction to IoT" title="Introduction to IoT" width="70"></a>
+<a href="https://www.credly.com/badges/956eb1e8-f648-4a79-923f-7181bd4deb20/public_url"><img src="https://images.credly.com/size/110x110/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" alt="Cybersecurity Essentials" title="Cybersecurity Essentials" width="70"></a>
+<a href="https://www.credly.com/badges/768ca921-700d-4675-a6b7-172f34fd662b/public_url"><img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" title="Introduction to Cybersecurity" width="70"></a>
+<a href="https://www.credly.com/badges/b8f82279-4f6e-48d8-868e-e86d59e745e0/public_url"><img src="https://images.credly.com/size/110x110/images/ca317486-3494-488b-b2a7-b49270d98f21/image.png" alt="English for IT 2" title="English for IT 2" width="70"></a>
+<a href="https://www.credly.com/badges/b05991ae-0fd3-44e2-8bb0-00467df5c5fe/public_url"><img src="https://images.credly.com/size/110x110/images/77b1ea15-6287-4d97-8ecd-c5afa2d137ea/image.png" alt="English for IT 1" title="English for IT 1" width="70"></a>
+<a href="https://www.credly.com/badges/dec9ba26-58a2-4b4b-b808-f6002c2dc495/public_url"><img src="https://images.credly.com/size/110x110/images/b1395248-483c-48cd-b40d-7fe93837c37d/image.png" alt="Networking Academy Learn-A-Thon 2023" title="Networking Academy Learn-A-Thon 2023" width="70"></a>
+<a href="https://www.codingame.com/certification/7LHzwzfT4KAX3P-VZtkCcw"><img src="https://i.ibb.co/K6rMJ7K/python-badge.png" alt="Codingame Python3" title="Codingame Python3" width="70"></a>
+<a href="https://www.codingame.com/certification/9OqUR4sP8xy8dsrRsR1i_w"><img src="https://i.ibb.co/NZ5DF0q/c-badge.png" alt="Codingame C++" title="Codingame C++" width="70"></a>
+<a href="https://www.credly.com/badges/381f603e-6864-4e40-8380-3b372a1fe4fe"><img src="https://images.credly.com/size/110x110/images/16840ea3-5c9a-4599-853e-7e15bac7748e/MTA-Introduction_to_Programming_Using_JavaScript-600x600.png" alt="Introduction to Javascript" title="Introduction to Javascript" width="70"></a>
+<img src="https://images.credly.com/size/110x110/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" alt="Word" title="Word" width="70">
+<a href="https://www.credly.com/badges/6e167c98-2612-4eeb-b8f7-0ef80349b12a"><img src="https://images.credly.com/size/110x110/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png" alt="Excel" title="Excel" width="70"></a>
 
 
 </details>  
 <details>	
   <summary><b>🎵 Music</b></summary>
   
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31sw52noaijjcfjy2ryfvlsetbwq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31sw52noaijjcfjy2ryfvlsetbwq&redirect=true)
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21h5aebynlzwwg5tkyn2f4o5y&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=21h5aebynlzwwg5tkyn2f4o5y&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&redirect=true)
 
   
 </details>
